@@ -1,0 +1,82 @@
+1590317880768	geckodriver	INFO	Listening on 127.0.0.1:1377
+1590318543179	geckodriver	INFO	Listening on 127.0.0.1:14634
+1590318637288	geckodriver	INFO	Listening on 127.0.0.1:1259
+1590318872821	geckodriver	INFO	Listening on 127.0.0.1:9326
+1590318942017	geckodriver	INFO	Listening on 127.0.0.1:9700
+1590319112173	geckodriver	INFO	Listening on 127.0.0.1:12042
+1590319115239	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.gaMCQD2wy0yK
+1590319115243	geckodriver::marionette	INFO	Starting browser F:\geckodriver.exe with args []
+1590319115266	geckodriver::marionette	INFO	Connecting to Marionette on localhost:12067
+error: Found argument '--marionette' which wasn't expected, or isn't valid in this context
+	Did you mean --marionette-port?
+
+USAGE:
+    geckodriver.exe --marionette-port <PORT>
+
+For more information try --help
+1590319232474	geckodriver	INFO	Listening on 127.0.0.1:12762
+1590319235522	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.ibBJCIE9K34d
+1590319235526	geckodriver::marionette	INFO	Starting browser F:\geckodriver.exe with args []
+1590319235549	geckodriver::marionette	INFO	Connecting to Marionette on localhost:12785
+error: Found argument '--marionette' which wasn't expected, or isn't valid in this context
+	Did you mean --marionette-port?
+
+USAGE:
+    geckodriver.exe --marionette-port <PORT>
+
+For more information try --help
+1590319529039	geckodriver	INFO	Listening on 127.0.0.1:14571
+1590319567655	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.0UDu7dd4p1Bo
+1590319567659	geckodriver::marionette	INFO	Starting browser F:\geckodriver.exe with args []
+1590319567683	geckodriver::marionette	INFO	Connecting to Marionette on localhost:14793
+error: Found argument '--marionette' which wasn't expected, or isn't valid in this context
+	Did you mean --marionette-port?
+
+USAGE:
+    geckodriver.exe --marionette-port <PORT>
+
+For more information try --help
+1590319606318	geckodriver	INFO	Listening on 127.0.0.1:1044
+1590319628434	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.3xNN5vXFMQHn
+1590319628437	geckodriver::marionette	INFO	Starting browser F:\geckodriver.exe with args []
+1590319628460	geckodriver::marionette	INFO	Connecting to Marionette on localhost:1217
+error: Found argument '--marionette' which wasn't expected, or isn't valid in this context
+	Did you mean --marionette-port?
+
+USAGE:
+    geckodriver.exe --marionette-port <PORT>
+
+For more information try --help
+1590319639137	geckodriver	INFO	Listening on 127.0.0.1:1308
+1590319662414	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.nK0bY7EaaHFa
+1590319662416	geckodriver::marionette	INFO	Starting browser F:\geckodriver.exe with args []
+1590319662439	geckodriver::marionette	INFO	Connecting to Marionette on localhost:1441
+error: Found argument '--marionette' which wasn't expected, or isn't valid in this context
+	Did you mean --marionette-port?
+
+USAGE:
+    geckodriver.exe --marionette-port <PORT>
+
+For more information try --help
+1590319672004	geckodriver	INFO	Listening on 127.0.0.1:1504
+1590319748649	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.5nHV6gc9QGy8
+1590319748653	geckodriver::marionette	INFO	Starting browser F:\geckodriver.exe with args []
+1590319748676	geckodriver::marionette	INFO	Connecting to Marionette on localhost:1943
+error: Found argument '--marionette' which wasn't expected, or isn't valid in this context
+	Did you mean --marionette-port?
+
+USAGE:
+    geckodriver.exe --marionette-port <PORT>
+
+For more information try --help
+1590319762027	geckodriver	INFO	Listening on 127.0.0.1:2037
+1590319832016	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.81p8ve16hsGp
+1590319832020	geckodriver::marionette	INFO	Starting browser F:\geckodriver.exe with args []
+1590319832044	geckodriver::marionette	INFO	Connecting to Marionette on localhost:2419
+error: Found argument '--marionette' which wasn't expected, or isn't valid in this context
+	Did you mean --marionette-port?
+
+USAGE:
+    geckodriver.exe --marionette-port <PORT>
+
+For more information try --help

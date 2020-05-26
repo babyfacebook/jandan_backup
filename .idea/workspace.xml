@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a98d4aec-079d-4613-83c3-a3a9193b8247" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cFzFwhanUNK9onxJITGWc1z6cl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\PycharmProjects\spider" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.photon">
+    <configuration name="extract_duan" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/extract_duan.py" />
+      <option name="PARAMETERS" value="-u jandan.net/pic -l 4" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="photon" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/photon.py" />
+      <option name="PARAMETERS" value="-u jandan.net/pic -l 4" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="photon_jandan" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/photon_jandan.py" />
+      <option name="PARAMETERS" value="-u jandan.net -l 3" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.photon" />
+      <item itemvalue="Python.extract_duan" />
+      <item itemvalue="Python.photon_jandan" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.photon" />
+        <item itemvalue="Python.extract_duan" />
+        <item itemvalue="Python.photon_jandan" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a98d4aec-079d-4613-83c3-a3a9193b8247" name="Default Changelist" comment="" />
+      <created>1590139028019</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590139028019</updated>
+      <workItem from="1590139029240" duration="22559000" />
+      <workItem from="1590387924341" duration="6565000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590396379728">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="311" y="145" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.860@0.0.1440.860" timestamp="1590313353795" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590396379728" />
+    <state width="1877" height="280" key="GridCell.Tab.0.bottom" timestamp="1590397173653">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1392" height="344" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1590321063305" />
+    <state width="1877" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590397173653" />
+    <state width="1877" height="280" key="GridCell.Tab.0.center" timestamp="1590397173653">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1392" height="344" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1590321063305" />
+    <state width="1877" height="280" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590397173653" />
+    <state width="1877" height="280" key="GridCell.Tab.0.left" timestamp="1590397173653">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1392" height="344" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1590321063305" />
+    <state width="1877" height="280" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590397173653" />
+    <state width="1877" height="280" key="GridCell.Tab.0.right" timestamp="1590397173653">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1392" height="344" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1590321063305" />
+    <state width="1877" height="280" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590397173653" />
+    <state width="1877" height="336" key="GridCell.Tab.1.bottom" timestamp="1590397173651">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1392" height="344" key="GridCell.Tab.1.bottom/0.0.1440.860@0.0.1440.860" timestamp="1590321075353" />
+    <state width="1877" height="336" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590397173651" />
+    <state width="1877" height="336" key="GridCell.Tab.1.center" timestamp="1590397173651">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1392" height="344" key="GridCell.Tab.1.center/0.0.1440.860@0.0.1440.860" timestamp="1590321075353" />
+    <state width="1877" height="336" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590397173651" />
+    <state width="1877" height="336" key="GridCell.Tab.1.left" timestamp="1590397173651">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1392" height="344" key="GridCell.Tab.1.left/0.0.1440.860@0.0.1440.860" timestamp="1590321075353" />
+    <state width="1877" height="336" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590397173651" />
+    <state width="1877" height="336" key="GridCell.Tab.1.right" timestamp="1590397173651">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1392" height="344" key="GridCell.Tab.1.right/0.0.1440.860@0.0.1440.860" timestamp="1590321075353" />
+    <state width="1877" height="336" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590397173651" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1590394991663">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="346" y="134" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1590315524042" />
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1590394991663" />
+    <state width="960" height="520" key="XDebugger.FullValuePopup" timestamp="1590394581459">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="720" height="430" key="XDebugger.FullValuePopup/0.0.1440.860@0.0.1440.860" timestamp="1590321183391" />
+    <state width="960" height="520" key="XDebugger.FullValuePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1590394581459" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/photon_jandan.py</url>
+          <line>331</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/photon_jandan.py</url>
+          <line>326</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/photon_jandan.py</url>
+          <line>276</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/extract_duan.py</url>
+          <line>74</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/extract_duan.py</url>
+          <line>55</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/spider$photon_jandan.coverage" NAME="photon_jandan Coverage Results" MODIFIED="1590208061921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$extract_duan.coverage" NAME="extract_duan Coverage Results" MODIFIED="1590395761238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$photon.coverage" NAME="photon Coverage Results" MODIFIED="1590396382590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
